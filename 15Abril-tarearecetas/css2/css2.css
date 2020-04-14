@@ -1,0 +1,132 @@
+body{
+  background-image: url("1.jpg");
+  background-repeat:not-repeat;
+  background-size:600px;
+}
+.uno{
+         font-family:Copperplate Gothic Light;
+          font-size:100px;
+          color:#FF69B4;
+          text-align:center;
+text-decoration: underline #00CED1;
+}
+.dos{
+     font-family:comic sans;
+          font-size:60px;
+          color:#BA55D3;
+          text-align:left;
+}
+.tres{
+ font-family:comic sans;
+          font-size:45px;
+          color:yellow;
+          text-align:left;
+}
+.cuatro{
+font-family:courier;
+          font-size:40px;
+          color:white;
+          text-align:left;
+  list-style-type:circle;
+}
+.cinco{
+font-family:courier;
+          font-size:50px;
+          color:yellow;
+          text-align:left;
+}
+.seis{
+font-family:consolas;
+          font-size:25px;
+          color:white;
+          text-align:justify;
+}
+.siete{
+font-family:consolas;
+          font-size:25px;
+          color:white;
+          text-align:justify;
+}
+.le{
+width: 20%;
+  height: 20%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.zu{
+width: 25%;
+  height: 25%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.tibi{
+width: 30%;
+  height: 30%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.hari{
+width: 20%;
+  height: 20%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.ebo{
+width: 30%;
+  height: 25%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.vai{
+width: 15%;
+  height: 15%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.sal{
+width: 30%;
+  height: 30%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.leva{
+width: 25%;
+  height: 25%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.man{
+width: 25%;
+  height: 25%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+.gor{
+width: 40%;
+  height: 50%;
+  margin: 10;
+  padding:10;
+ position: absolute;
+right:4%;
+{
+.pag{
+font-family:consolas;
+}

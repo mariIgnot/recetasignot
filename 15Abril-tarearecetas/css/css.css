@@ -1,0 +1,133 @@
+body{
+  background-image: url("internet.gif");
+  background-repeat:not-repeat;
+  background-size:600px;
+  
+ }
+.uno{
+        font-family:Copperplate Gothic Light;
+          font-size:100px;
+          color:#FF69B4;
+          text-align:center;
+text-decoration: underline #00CED1;
+}
+.dos{
+         font-family:courier;
+         font-size:50px;
+         color:#7FFFD4;
+         text-align:center;
+}
+.tres{
+         font-family:courier;
+         font-size:50px;
+         color:#EE82EE;
+         text-align:left;
+}
+.medi{
+font-family:Copperplate Gothic Light;
+          font-size:60px;
+          color:#FF69B4;
+          text-align:left;
+}
+.cuatro{
+         font-family:Times new roman;
+         font-size:45px;
+         color:yellow;
+         text-align:left;
+}
+.cinco{
+         font-family:Times new roman;
+         font-size:45px;
+         color:white;
+         text-align:left;
+        list-style-type:circle;
+}
+ img {
+  width: 20%;
+  height: 25%;
+  margin: 0;
+  padding: 0;
+  right:15px;
+  left:px;
+}
+ .nut{
+  width: 15%;
+  height: 15%;
+  margin:0;
+  padding:0;
+  right:10px;
+}
+ .mer{
+  width: 30%;
+  height: 30%;
+  margin: 0;
+  padding:0;
+  right:10px;
+}
+.man{
+  width: 40%;
+  height: 40%;
+  margin: 10;
+  padding: 10;
+  right:10px;
+}
+.seis {
+ font-family:times new roman;
+         font-size:55px;
+         color:yellow;
+         text-align:left;
+}
+.se{
+font-family:courier;
+         font-size:55px;
+         color:yellow;
+         text-align:left;
+         font-style:strong;
+}
+.siete{
+         font-family:times new roman;
+         font-size:45px;
+         color:#FFEFD5;
+         text-align:left;
+        list-style-type:circle;
+}
+.si{
+font-family:consolas;
+         font-size:25px;
+         color:white;
+         text-align:left;
+}
+.hu{
+  width: 20%;
+  height: 20%;
+  margin: 10;
+  padding: 10;
+  right:10px;
+}
+.le{
+  width: 20%;
+  height: 20%;
+  margin: 10;
+  padding: 10;
+  right:10px;
+}
+.can{
+  width: 20%;
+  height: 20%;
+  margin: 10;
+  padding: 10;
+  right:10px;
+}
+.vai{
+  width: 20%;
+  height: 20%;
+  margin: 10;
+  padding: 10;
+  right:10px;
+}
+.pag{
+font-family:consolas;
+         font-size:25px;
+         color:yellow;
+}
+
